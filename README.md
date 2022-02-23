@@ -114,20 +114,30 @@ You can launch an interactive console (a la `rails c`) using `racksh`.
 
 ## Acknowledgments
 
-Most of the heavy-lifting is done by [`feedjira`](https://github.com/feedjira/feedjira) and [`feedbag`](https://github.com/dwillis/feedbag).
-
-General sexiness courtesy of [`Twitter Bootstrap`](http://twitter.github.io/bootstrap/) and [`Flat UI`](http://designmodo.github.io/Flat-UI/).
-
-ReenieBeanie Font Copyright &copy; 2010 Typeco (james@typeco.com). Licensed under [SIL Open Font License, 1.1](http://scripts.sil.org/OFL).
-
-Lato Font Copyright &copy; 2010-2011 by tyPoland Lukasz Dziedzic (team@latofonts.com). Licensed under [SIL Open Font License, 1.1](http://scripts.sil.org/OFL).
+* This project builds on-top on [swanson/stringer][7] created by:
+  * Matt Swanson [mdswanson.com][1] [@_swanson][2]
+  * Victor Koronen [victor.koronen.se][3] [@victorkoronen][4]
+* Most of the heavy-lifting is done by [`feedjira`](https://github.com/feedjira/feedjira) and [`feedbag`](https://github.com/dwillis/feedbag).
+* General sexiness courtesy of [`Twitter Bootstrap`](http://twitter.github.io/bootstrap/) and [`Flat UI`](http://designmodo.github.io/Flat-UI/).
+* ReenieBeanie Font Copyright &copy; 2010 [Typeco][10]. Licensed under [SIL Open Font License, 1.1](http://scripts.sil.org/OFL).
+* Lato Font Copyright &copy; 2010-2011 [tyPoland Lukasz Dziedzic][9]. Licensed under [SIL Open Font License, 1.1](http://scripts.sil.org/OFL).
 
 ## Contact
 
-If you have a question, feature idea, or are running into problems, our preferred method of contact is to open an issue on GitHub. This allows multiple people to weigh in, and we can keep everything in one place. Thanks!
+If you have any questions, feature proposals or are running into problems, the preferred method of contact is to open
+an issue on GitHub. This allows multiple people to weigh in, and we can keep everything in one place. Thanks!
 
-## Maintainers
+## Maintainer(s)
 
-Matt Swanson, [mdswanson.com](http://mdswanson.com), [@_swanson](http://twitter.com/_swanson)
+Konrad Gibaszewski [gemscrafter.com][5] [@gemscrafter][6]
 
-Victor Koronen, [victor.koronen.se](http://victor.koronen.se/), [@victorkoronen](https://twitter.com/victorkoronen)
+
+[1]: https://mdswanson.com
+[2]: https://twitter.com/_swanson
+[3]: https://victor.koronen.se
+[4]: https://twitter.com/victorkoronen
+[5]: https://gemscrafter.com
+[6]: https://twitter.com/gemscrafter
+[7]: https://github.com/swanson/stringer
+[9]: http://www.lukaszdziedzic.eu
+[10]: http://www.typeco.com
