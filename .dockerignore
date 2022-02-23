@@ -1,4 +1,25 @@
-.git/*
+# File system
+.DS_Store
+
+# Git
+.git/
 .gitignore
+
+# JetBrains
+.idea
+
+# Logs and temps
 log/*
 tmp/*
+
+# Project
+db/stringer_test.sqlite
+docs/
+screenshots/
+spec/
+.dockerignore
+.rspec
+.rubocop*
+.travis.yml
+docker-compose.yml
+Dockerfile
